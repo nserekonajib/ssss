@@ -1,0 +1,5 @@
+flask
+flask-cors
+python-dotenv
+email-validator
+gunicorn
